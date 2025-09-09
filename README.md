@@ -43,7 +43,7 @@ For more about Qiskit, visit [IBM Quantum / Qiskit](https://www.ibm.com/quantum/
 ## Enroll Now !!!
 Click the button below to secure your spot:  
 
-[![Enroll Here]](https://forms.gle/kPu6hyZazyE7xQqS6)
+[![Enroll Here](https://img.shields.io/badge/Enroll-Here-green?style=for-the-badge)](https://forms.gle/kPu6hyZazyE7xQqS6)
 
 ---
 
