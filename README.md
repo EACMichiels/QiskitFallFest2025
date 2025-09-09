@@ -1,7 +1,7 @@
 # Qiskit Fall Fest 2025 in Brussels !!!
 
-## 📅 When:** 18 November 2025  
-## 📍 Where:** Vrije Universiteit Brussel or Free University of Brussels
+## 📅 When: 18 November 2025  
+## 📍 Where: Vrije Universiteit Brussel or Free University of Brussels
 
 ---
 
