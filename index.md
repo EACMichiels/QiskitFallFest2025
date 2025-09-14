@@ -75,5 +75,9 @@ For questions, reach out to:
   <img src="https://github.com/EACMichiels/QiskitFallFest2025/blob/main/QiskitSphere.jpg" alt="Qiskit Sphere" width="200"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EACMichiels/QiskitFallFest2025/main/ExtensionEvent.png" alt="Extension Event" width="200"/>
+  <img src="https://raw.githubusercontent.com/EACMichiels/QiskitFallFest2025/main/QiskitSphere.jpg" alt="Qiskit Sphere" width="200"/>
+</p>
 
 ---
