@@ -74,7 +74,3 @@ For questions, reach out to:
 
 
 ---
-
-## Contact
-For questions, reach out to **Jan.Debeule@vub.be**, or **Ann.Dooms@vub.be**, or **Eric_Michiels@be.ibm.com**.
-
