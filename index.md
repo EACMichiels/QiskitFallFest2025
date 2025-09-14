@@ -1,6 +1,6 @@
 # Qiskit Fall Fest 2025 at Vrije Universiteit Brussel !
 
-![Banner](https://github.com/EACMichiels/QiskitFallFest2025/blob/main/Collage.jpg)
+![Banner](https://raw.githubusercontent.com/EACMichiels/QiskitFallFest2025/main/Collage.jpg)
 
 ---
 We’re excited to announce that in honor of the **International Year of Quantum**, **VUB** will be hosting a **Qiskit Fall Fest 2025** event this fall, supported by **IBM Quantum**.  
@@ -31,9 +31,9 @@ Whether you’re brand new to Quantum or already exploring the field, there’s 
 ## 🤝 Partners  
 
 <p align="center">
-  <img src="https://github.com/EACMichiels/QiskitFallFest2025/blob/main/QiskitLogo.jpg" alt="Qiskit Logo" width="200"/>
-  <img src="https://github.com/EACMichiels/QiskitFallFest2025/blob/main/VUBLogo.jpg" alt="VUB Logo" width="200"/>
-  <img src="https://github.com/EACMichiels/QiskitFallFest2025/blob/main/IBMQuantumLogo.jpg" alt="IBM Quantum Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/EACMichiels/QiskitFallFest2025/main/QiskitLogo.jpg" alt="Qiskit Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/EACMichiels/QiskitFallFest2025/main/VUBLogo.jpg" alt="VUB Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/EACMichiels/QiskitFallFest2025/main/IBMQuantumLogo.jpg" alt="IBM Quantum Logo" width="200"/>
 </p>
 
 ---
@@ -69,11 +69,6 @@ For questions, reach out to:
 ---
 
 ## 🌐 Supported By  
-
-<p align="center">
-  <img src="https://github.com/EACMichiels/QiskitFallFest2025/blob/main/ExtensionEvent.png" alt="Extension Event" width="200"/>
-  <img src="https://github.com/EACMichiels/QiskitFallFest2025/blob/main/QiskitSphere.jpg" alt="Qiskit Sphere" width="200"/>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/EACMichiels/QiskitFallFest2025/main/ExtensionEvent.png" alt="Extension Event" width="200"/>
