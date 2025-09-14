@@ -3,7 +3,7 @@
 ![Banner](https://github.com/EACMichiels/QiskitFallFest2025/blob/main/Collage.jpg)
 
 ---
-We’re excited to announce that in honor of the **@International Year of Quantum**, **VUB** will be hosting a **Qiskit Fall Fest 2025** event this fall, supported by **@IBM Quantum**.  
+We’re excited to announce that in honor of the **International Year of Quantum**, **VUB** will be hosting a **Qiskit Fall Fest 2025** event this fall, supported by **IBM Quantum**.  
 
 Qiskit Fall Fest is a student-led, worldwide series of events that brings people together to explore and learn about **Quantum Computing**.  
 
