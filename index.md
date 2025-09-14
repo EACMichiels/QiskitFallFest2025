@@ -37,7 +37,6 @@ Whether you’re brand new to Quantum or already exploring the field, there’s 
 </p>
 
 ---
-<div style="color:blue;">
 ## 📘 Agenda  
 - Lecture 1: A holistic introduction to Quantum Computing  
 - Lecture 2: An introduction to Qiskit  
@@ -48,8 +47,6 @@ Whether you’re brand new to Quantum or already exploring the field, there’s 
 - Presentations of the Solutions to the Jury  
 - Announcement and Celebration of the Winning Team  
 - Fun Quantum Quiz  
-</div>
-
 ---
 
 ## 🚀 Enrollment  
