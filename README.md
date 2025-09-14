@@ -3,6 +3,16 @@
 ![Banner](https://github.com/EACMichiels/QiskitFallFest2025/blob/main/Collage.jpg)
 
 ---
+We’re excited to announce that in honor of the **@International Year of Quantum**, **VUB** will be hosting a **Qiskit Fall Fest 2025** event this fall, supported by **@IBM Quantum**.  
+
+Qiskit Fall Fest is a student-led, worldwide series of events that brings people together to explore and learn about **Quantum Computing**.  
+
+This is an exciting moment. The quantum industry is accelerating quickly, and is on track to achieve **Quantum Advantage by 2026**. We get to be part of that journey through Qiskit Fall Fest. We’ll be using **Qiskit**, the world’s most performant Quantum Software Development Kit, and running circuits on **utility-scale hardware** built to return meaningful results.  
+
+Whether you’re brand new to Quantum or already exploring the field, there’s a place for you here. So come build skills and join this global community!  
+
+
+---
 
 ## 📅 Event Details  
 - **Date:** 14 November 2025  
