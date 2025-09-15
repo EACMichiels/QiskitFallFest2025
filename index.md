@@ -46,7 +46,8 @@ Whether you’re brand new to Quantum or already exploring the field, there’s 
 - Lab 3: Solve the Challenge  
 - Presentations of the Solutions to the Jury  
 - Announcement and Celebration of the Winning Team  
-- Fun Quantum Quiz  
+- Fun Quantum Quiz
+  
 ---
 
 ## 🚀 Enrollment  
