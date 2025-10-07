@@ -7,7 +7,7 @@ We’re excited to announce that in honor of the **International Year of Quantum
 
 Qiskit Fall Fest is a student-led, worldwide series of events that brings people together to explore and learn about **Quantum Computing**.  
 
-This is an exciting moment. The quantum industry is accelerating quickly, and is on track to achieve **Quantum Advantage by 2026**. We get to be part of that journey through Qiskit Fall Fest. We’ll be using **Qiskit**, the world’s most performant Quantum Software Development Kit, and running circuits on **utility-scale hardware** built to return meaningful results.  
+This is an exciting moment. The quantum industry is accelerating quickly, and is on track to achieve **Quantum Advantage by 2026**. We get to be part of that journey through Qiskit Fall Fest. We’ll be using **Qiskit**, the world’s most performant Quantum Software Development Kit, and running circuits on **utility-scale hardware** built to return meaningful results. In this Qiskit Fall Fest at VUB, **Quantum Machine Learning** will be in the spotlights! 
 
 Whether you’re brand new to Quantum or already exploring the field, there’s a place for you here. So come build skills and join this global community!  
 
@@ -42,8 +42,9 @@ Whether you’re brand new to Quantum or already exploring the field, there’s 
 - Lecture 2: An introduction to Qiskit  
 - Lab 1: My first Qiskit Program  
 - Lab 2: Diving deeper into a Quantum Algorithm  
-- Lecture 3: Challenge Description  
-- Lab 3: Solve the Challenge  
+- Lecture 3: An overview of Quantum Machine Learning
+- Lecture 4: Challenge Description 
+- Lab 3: Solve the Challenge with Quantum Machine Learning
 - Presentations of the Solutions to the Jury  
 - Announcement and Celebration of the Winning Team  
 - Fun Quantum Quiz
