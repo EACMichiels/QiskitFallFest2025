@@ -51,6 +51,7 @@ Whether you’re brand new to Quantum or already exploring the field, there’s 
 - 16:30 hrs.: Announcement and Celebration of the Winning Team  
 - 16:45 hrs.: Fun Quantum Quiz
 - 17:00 hrs.: NETWORKING
+
 ---
 
 ## 🚀 Enrollment  
