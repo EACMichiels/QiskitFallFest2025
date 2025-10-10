@@ -38,17 +38,19 @@ Whether you’re brand new to Quantum or already exploring the field, there’s 
 
 ---
 ## 📘 Agenda  
-- Lecture 1: A holistic introduction to Quantum Computing  
-- Lecture 2: An introduction to Qiskit  
-- Lab 1: My first Qiskit Program  
-- Lab 2: Diving deeper into a Quantum Algorithm  
-- Lecture 3: An overview of Quantum Machine Learning
-- Lecture 4: Challenge Description 
-- Lab 3: Solve the Challenge with Quantum Machine Learning
-- Presentations of the Solutions to the Jury  
-- Announcement and Celebration of the Winning Team  
-- Fun Quantum Quiz
-  
+- 09:00 hrs.: Lecture 1: A holistic introduction to Quantum Computing  
+- 09:45 hrs.: Lecture 2: An introduction to Qiskit  
+- 10:00 hrs.: Lab 1: My first Qiskit Program  
+- 10:30 hrs.: COFFEE BREAK
+- 10:45 hrs.: Lab 2: Diving deeper into a Quantum Algorithm  
+- 11:30 hrs.: Lecture 3: An overview of Quantum Machine Learning
+- 12:15 hrs.: LUNCH BREAK
+- 13:00 hrs.: Lecture 4: Challenge Description 
+- 13:30 hrs.: Lab 3: Solve the Challenge with Quantum Machine Learning
+- 15:30 hrs.: Presentations of the Solutions to the Jury  
+- 16:30 hrs.: Announcement and Celebration of the Winning Team  
+- 16:45 hrs.: Fun Quantum Quiz
+- 17:00 hrs.: NETWORKING
 ---
 
 ## 🚀 Enrollment  
